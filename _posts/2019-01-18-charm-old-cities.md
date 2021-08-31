@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Could we reinvent the charm of old cities"
-author: jane
-categories: [ Jekyll, tutorial ]
+author: djxpat254
+categories: [ Xpat World, tutorial ]
 image: assets/images/home.jpg
 tags: [sticky]
 ---
