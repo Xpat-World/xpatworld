@@ -1,17 +1,17 @@
 # Xpat World
 
-[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/) &nbsp; | &nbsp; 
-[Download](https://github.com/wowthemesnet/mundana-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; 
-[Buy me a coffe](https://www.wowthemes.net/donate/) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/mundana-theme-jekyll/) &nbsp; | &nbsp; 
-[WordPress version](https://www.wowthemes.net/themes/mundana-wordpress/) 
+[Home Page](https://wowthemesnet.github.io/mundana-theme-jekyll/) &nbsp; | &nbsp; 
+[Facebook Page](https://github.com/wowthemesnet/mundana-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; 
+[Go to Downloads](https://www.wowthemes.net/donate/) &nbsp; | &nbsp; [Telegram](https://bootstrapstarter.com/mundana-theme-jekyll/) &nbsp; | &nbsp; 
+[YouTube Channel](https://www.wowthemes.net/themes/mundana-wordpress/) 
 
-![mundana jekyll theme screenshot](assets/images/screenshot.jpg)
+![xpat world logo](assets/images/screenshot.jpg)
 
-### Documentation
+### About Xpat World 🌍
 
 [How to install & use](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/)
 
-### Contribute to Mundana repository
+### Contribute to help development
 
 1. In the top-right corner of this page, click **Fork**.
 
@@ -40,12 +40,12 @@ That's it! Soon I'll be merging your changes into the master branch of this proj
 
 ### Copyright
 
-Copyright (C) 2019 WowThemes.net.
+Copyright (C) 2021 Xpat World.
 
-Theme designed and developed by [Sal](https://www.wowthemes.net), *free* under MIT license. 
+Developed and owned by [DJ X-PAT 254](https://www.wowthemes.net).
 
 <a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
-### Live Demo
+### Feedback
 
-[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/)
+[Feedback](https://wowthemesnet.github.io/mundana-theme-jekyll/)
